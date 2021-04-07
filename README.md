@@ -8,4 +8,4 @@ I was given an assignment to update my portfolio with some of the assignments I 
 
 ## Link to Deployed Application
 
-[Github Pages Webpage](https://jagatston.github.io/JS-Password-Generator/.)
+[Github Pages Webpage](https://jagatston.github.io/Updated-Portfolio/)
